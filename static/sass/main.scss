@@ -1,0 +1,25 @@
+$grey: #cccccc;
+
+html {
+  font-family: sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+  list-style: outside none;
+}
+
+canvas {
+  border: solid 1px $grey;
+  height: 300px;
+  width: 485px;
+  margin: 1.5em 0;
+}
